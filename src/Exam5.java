@@ -5,6 +5,7 @@ public class Exam5 {
 	private String phoneNum;
 	
 	// 5-2 디폴트 생성자를 생성
+	// 안에 인자 없어야 함.
 	void PhoneNum(String phoneNum) {}
 	
 	// 5-3 사용자 정의함수 생성
